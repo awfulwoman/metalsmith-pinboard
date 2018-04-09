@@ -1,0 +1,26 @@
+{
+  "name": "metalsmith-pinboard",
+  "version": "1.0.0",
+  "description": "A Metalsmith plugin for retreiving and displaying Pinboard bookmarks.",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonniesedge/metalsmith-pinboard.git"
+  },
+  "keywords": [
+    "metalsmith",
+    "pinboard"
+  ],
+  "author": "Charlie Owen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonniesedge/metalsmith-pinboard/issues"
+  },
+  "homepage": "https://github.com/sonniesedge/metalsmith-pinboard#readme"
+}
